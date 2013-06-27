@@ -13,7 +13,7 @@ Before we get started, we will need to do some setup.
 
 First we will need to install software to do our video encoding. Most of you may already be familiar with handbrake. But for this tutorial, we will need
 more control over the video encode process, so we will be installing [FFmpeg](http://www.ffmpeg.org). The ffmpeg recipe is available for Homebrew so the
-installation process is easy although there can be a number of packages so this may take a while. Go get some coffee! (or Scotch)
+installation process is easy although there can be a number of packages so this may take a while. Go get some coffee (or Scotch)!
 
 ```bash
 $ brew install ffmpeg
@@ -23,7 +23,7 @@ $ brew install ffmpeg
 Now that we have ffmpeg installed, we will need the tools from Apple [Http Live Streaming](https://developer.apple.com/streaming/) website under Downloads.
 You will be required to sign in using your Apple Developer Account, so have your login ready.
 
-This we be a DMG file with an automated installer, so hopefully that's pretty se
+This we be a DMG file with an automated installer, so hopefully that's pretty to install.
 
 ## Download Source Video
 
