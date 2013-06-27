@@ -120,6 +120,7 @@ with settings listed above. Here are the settings that should probably be famili
   - high444
 
 Next, we are going to encode our video.
+
 __For these examples, I'm changing the encode preset, just as an example. Please choose the preset that is right for you. Slower presents tend to have better quality.__
 
 ```bash
