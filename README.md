@@ -82,7 +82,7 @@ $ ffmpeg -i big_buck_bunny_1080p_h264.mov -bsf h264_mp4toannexb -map 0:0 -c:v:0 
 ## Encode the Video
 
 Now we need to re-encode the video stream that we seperated out in to streams with different quality levels and bitrates.
-Note! Be should to check the supported video and audio codecs that your targeted devices support to make sure that what you are encoding will actually play back.
+Note! Be sure to check the supported video and audio codecs that your targeted devices support to make sure that what you are encoding will actually play back.
 
 For our demo, we are going to target (iPhone 5)[http://www.apple.com/iphone/specs.html], so we need to view the *TV and Video* section of the iPhone 5 spec website
 and look for the h264 video codec properties and the supported AAC audio codec properties.
