@@ -190,7 +190,7 @@ movieController = [[MPMoviePlayerViewController alloc] initWithContentURL:movieU
 
 [Kevin Kirkup](https://github.com/kevinkirkup)([@pan_and_scan](http://twitter.com/pan_and_scan))
 
-Many thanks to the [Big Buck Bunny Team](http://www.bigbuckbunny.org/index.php/the-team/) for creating awesome video used in this tutorial.
+Many thanks to the [Big Buck Bunny Team](http://www.bigbuckbunny.org/index.php/the-team/) for creating the video used in this tutorial.
 
 ## License
 
